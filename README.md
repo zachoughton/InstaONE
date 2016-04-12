@@ -81,8 +81,25 @@ through arduous, contious, and determined research i developed my application.js
 
 At this point it was necessary to update the HTML to interact with the **Java**.
 
-######Connecting the behaviour with the actual markup
+----
+######Connecting the behaviour with the actual markup.
+----
 
+i Had to at this point make my HTML aware that this was an app im building, therefore going back to the HTML i updated line 3.
+```
+<html ng-app="instaONE">
+```
+the line of code connects to the javascript file and let's Angular know that anything in its code chunk.
+
+Moving forward another big change was to implement this <div> into the index.html.
+
+![Woops](http://i64.tinypic.com/1690ncg.png)
+
+this under the command of ->
+```
+<section ng-controller="ShowImages as images">
+```
+Will access the code command/data inside the "showimages controller of our Application,js file (Line 21).
 
 
 

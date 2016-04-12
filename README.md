@@ -36,7 +36,7 @@ To host my APP i looked at a few options, some local development servers etc.. i
 But the easy and relatively cheap solution of Amazon Web Services (AWS) seemed to suit.
 
 
-Format: ![Woops](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/AmazonWebservices_Logo.svg/2000px-AmazonWebservices_Logo.svg.png)
+![Woops](http://www.knd.com.au/wp-content/uploads/aws.png)
 
 
 

@@ -63,6 +63,13 @@ This downloaded all the juicy Angular.js files and put them in a file called "Bo
 
 Angular supposeably helps pull data from the Instagram API into my/your web app. Hopefully.
 
+through arduous, contious, and determined research i developed my application.js file to this final product.
+
+![Woops](http://i65.tinypic.com/qo9ceo.png)
+
+Line's 1 & 23 wrap our code together nicely
+
+Line 2 is my Instagram client ID, this proved difficult at first to get, until i used a previous account. Why? because Instagram since November 2015 has changed its app registration process to one that need to be approved in sandbox mode. With a account dating back before the change it seemed i got away with registering an application without review. 
 
 
 

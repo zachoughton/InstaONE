@@ -15,7 +15,7 @@ I decided to try and create an APP that could pull the best photos from instagra
 
 The idea for this when i watched one of my friends frantically refresh the "explore tabe on instagram (mobile App). This triggered my thought process, people -> see great new content -> often. While i thought that it could be possible to create a third-party mobile app for an app, i didnt see it as a affective solution. A web-based APP however, got my attention as i prefer to use instagram on their web-platform anyway.
 ...
-
+----
 ######STEP ONE 
 ----
 My first step was verify the existence and version of the crucical programs that were going to power such idea. GIT and NODE.js 
@@ -29,7 +29,7 @@ and it appeared i was out of date on both. Therefore i quickly updated both and 
 npm -g install bower
 ```
 Bower essentially is the back-bone to the APP.
-
+----
 ######Hosting
 ----
 To host my APP i looked at a few options, some local development servers etc.. i.e. Serve, rack, anvil..
@@ -37,7 +37,7 @@ But the easy and relatively cheap solution of Amazon Web Services (AWS) seemed t
 
 
 ![Woops](http://www.knd.com.au/wp-content/uploads/aws.png)
-
+----
 ######STEP TWO - HTML 
 ----
 Once i had layed the ground work down, it was important i documented/filed everything well. I decided to start with the outline for the index.html, trying to establish a connection with my .js file and index.html.
@@ -45,7 +45,7 @@ Once i had layed the ground work down, it was important i documented/filed every
 ![Woops](http://i68.tinypic.com/6zc009.png)
 
 At this point it looks like some un-formatted HTML, not very interesting. However, the plan is to make it pop.
-
+----
 ######STEP THREE - Javascript 
 ----
 

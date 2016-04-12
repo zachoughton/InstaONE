@@ -35,7 +35,7 @@ Bower essentially is the back-bone to the APP.
 To host my APP i looked at a few options, some local development servers etc.. i.e. Serve, rack, anvil..
 But the easy and relatively cheap solution of Amazon Web Services (AWS) seemed to suit.
 
-("https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/AmazonWebservices_Logo.svg/2000px-AmazonWebservices_Logo.svg.png")
+["https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/AmazonWebservices_Logo.svg/2000px-AmazonWebservices_Logo.svg.png"]
 
 
 

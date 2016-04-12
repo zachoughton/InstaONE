@@ -46,7 +46,7 @@ Once i had layed the ground work down, it was important i documented/filed every
 
 At this point it looks like some un-formatted HTML, not very interesting. However, the plan is to make it pop.
 
-##Javascript 
+##STEP THREE - Javascript 
 ----
 
 To start i made a application.js file in my instaone file. This i connected to the index.html

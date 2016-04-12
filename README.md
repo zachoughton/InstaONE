@@ -93,7 +93,14 @@ I Had to at this point make my HTML aware that this was an app im building, ther
 ```
 This line of code connects to the application.js file, and let's Angular know that anything in its code chunk is of importance.
 
-Moving forward, another big change was to implement this <div> into the index.html. This, if anything, is the most important part of my index.html as it is responsible for pulling content directly from instagram's API.
+Moving forward, another big change was to implement this 
+```
+<div class="spot" ng-repeat="p in pics">
+  <p><a href="http://instagram.com/{{p.user.username}}" target="_blank">{{p.user.username}}</a></p>
+  <a href="{{p.link}}" target="_blank"><img ng-src="{{p.images.thumbnail.url}}" /></a>
+</div>
+```
+<div> into the index.html. This, if anything, is the most important part of my index.html as it is responsible for pulling content directly from instagram's API.
 
 It displays the username and image, linking to Instagram’s web site during a blank tab.
 

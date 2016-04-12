@@ -11,15 +11,15 @@
 ----
 ###### Introduction
 ----
-I decided to try and create an APP that could pull the best photos from instagram, and place them in alligment, on a web-platform device. I wanted to find the best photos in all genres and have a refresh-rate short enough to display the latest and greated. Essentially becomming a go"to" place for the most popular content on instagram at that moment in time.
+I decided to try and create an APP that could pull the best photos from instagram, and place them in alligment, on a web-platform desktop device. I wanted to find the best photos in all genres and have a refresh-rate short enough to display the latest and greatest. Essentially becomming a go"to" place for the most popular content on instagram at that moment in time.
 
-The idea for this when i watched one of my friends frantically refresh the "explore tabe on instagram (mobile App). This triggered my thought process, people -> see great new content -> often. While i thought that it could be possible to create a third-party mobile app for an app, i didnt see it as a affective solution. A web-based APP however, got my attention as i prefer to use instagram on their web-platform anyway.
+The idea for this came about when i watched one of my friends frantically refresh the "explore tabe on instagram (mobile App). This triggered my thought process, people -> see great new content -> often. While i thought that it could be possible to create a third-party mobile app for an app, i didnt see it as a affective solution. A web-based APP however, got my attention as i prefer to use instagram on their web-platform anyway.
 ...
 ----
 ######STEP ONE 
 ----
-My first step was verify the existence and version of the crucical programs that were going to power such idea. GIT and NODE.js 
-To do so i simple opened my terminal and typed
+My first step was verify the existence and version of the crucical programs that were going to power such idea. GIT and NODE.js. 
+To do so i simply opened my terminal and typed
 ```
 Git --version
 Node --version 
@@ -61,11 +61,13 @@ This downloaded all the juicy Angular.js files and put them in a file called "Bo
 
 ![Woops](http://i63.tinypic.com/1qpojd.png)
 
-Angular supposeably helps pull data from the Instagram API into my/your web app. Hopefully.
+Angular supposably helps pull data from the Instagram API into my/your web app. 
 
 through arduous, contious, and determined research i developed my application.js file to this final product.
 
 ![Woops](http://i65.tinypic.com/qo9ceo.png)
+
+######analysation
 
 **Line's 1 & 28** wrap our code together nicely
 
@@ -93,7 +95,12 @@ This line of code connects to the application.js file, and let's Angular know th
 
 Moving forward, another big change was to implement this <div> into the index.html. This, if anything, is the most important part of my index.html as it is responsible for pulling content directly from instagram's API.
 
-We’re displaying the username and image and linking to Instagram’s web site during a blank tab.
+It displays the username and image, linking to Instagram’s web site during a blank tab.
+
+**“ng-repeat”** to loop through the array of content that comes back from the Instagram API. “pics” corresponds to line 24 from our application.js file.
+
+The **image tag** uses ng-src instead of src so it renders the content prior to the HTML load.
+
 
 
 ![Woops](http://i64.tinypic.com/1690ncg.png)

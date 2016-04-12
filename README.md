@@ -9,14 +9,14 @@
 
 # InstaONE
 ----
-### Introduction
+###### Introduction
 ----
 I decided to try and create an APP that could pull the best photos from instagram, and place them in alligment, on a web-platform device. I wanted to find the best photos in all genres and have a refresh-rate short enough to display the latest and greated. Essentially becomming a go"to" place for the most popular content on instagram at that moment in time.
 
 The idea for this when i watched one of my friends frantically refresh the "explore tabe on instagram (mobile App). This triggered my thought process, people -> see great new content -> often. While i thought that it could be possible to create a third-party mobile app for an app, i didnt see it as a affective solution. A web-based APP however, got my attention as i prefer to use instagram on their web-platform anyway.
 ...
 
-STEP ONE 
+######STEP ONE 
 ----
 My first step was verify the existence and version of the crucical programs that were going to power such idea. GIT and NODE.js 
 To do so i simple opened my terminal and typed
@@ -30,7 +30,7 @@ npm -g install bower
 ```
 Bower essentially is the back-bone to the APP.
 
-###Hosting
+######Hosting
 ----
 To host my APP i looked at a few options, some local development servers etc.. i.e. Serve, rack, anvil..
 But the easy and relatively cheap solution of Amazon Web Services (AWS) seemed to suit.
@@ -38,7 +38,7 @@ But the easy and relatively cheap solution of Amazon Web Services (AWS) seemed t
 
 ![Woops](http://www.knd.com.au/wp-content/uploads/aws.png)
 
-###STEP TWO - HTML 
+######STEP TWO - HTML 
 ----
 Once i had layed the ground work down, it was important i documented/filed everything well. I decided to start with the outline for the index.html, trying to establish a connection with my .js file and index.html.
 
@@ -46,7 +46,7 @@ Once i had layed the ground work down, it was important i documented/filed every
 
 At this point it looks like some un-formatted HTML, not very interesting. However, the plan is to make it pop.
 
-##STEP THREE - Javascript 
+######STEP THREE - Javascript 
 ----
 
 To start i made a application.js file in my instaone file. This i connected to the index.html
@@ -80,6 +80,8 @@ through arduous, contious, and determined research i developed my application.js
 **Lines 21–26** create a “controller” called “ShowImages” that will interact with our HTML. We create an empty object called “data” that we pump the API response into. This is all the JS we need.
 
 At this point it was necessary to update the HTML to interact with the **Java**.
+
+######Connecting the behaviour with the actual markup
 
 
 

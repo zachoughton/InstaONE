@@ -40,7 +40,9 @@ But the easy and relatively cheap solution of Amazon Web Services (AWS) seemed t
 
 ###STEP TWO - HTML 
 ----
-Once i had layed the ground work down, it was important i documented/filed everything well. I decided to start with the outline for the index.html, trying to establish a connection 
+Once i had layed the ground work down, it was important i documented/filed everything well. I decided to start with the outline for the index.html, trying to establish a connection with my .js file and index.html.
+
+![Woops](<a href="http://tinypic.com?ref=6zc009" target="_blank"><img src="http://i68.tinypic.com/6zc009.png" border="0" alt="Image and video hosting by TinyPic"></a>)
 
 
 

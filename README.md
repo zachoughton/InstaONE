@@ -24,11 +24,16 @@ To do so i simple opened my terminal and typed
 Git --version
 Node --version 
 ```
-and it appeared i was out of date on both. Therefore i quickly updated both and carried onto my next step. I needed to be able to access librabries powerful enough to give me good javascript functionilty and integration with Instagram's API, and after copious research i discovered the delightful bower. 
+and it appeared i was out of date on both. Therefore i quickly updated both and carried onto my next step. I needed to be able to access libraries powerful enough to give me good javascript functionilty and integration with Instagram's API, and after copious research i discovered the delightful bower. 
 ```
 npm -g install bower
 ```
+Bower essentially is the back-bone to the APP.
 
+###Hosting
+
+To host my APP i looked at a few options, some local development servers etc.. i.e. Serve, rack, anvil..
+But the easy and relatively cheap solution of Amazon Web Services (AWS) seemed to suit.
 
 
 

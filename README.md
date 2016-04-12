@@ -85,21 +85,26 @@ At this point it was necessary to update the HTML to interact with the **Java**.
 ######Connecting the behaviour with the actual markup.
 ----
 
-i Had to at this point make my HTML aware that this was an app im building, therefore going back to the HTML i updated line 3.
+I Had to at this point make my HTML aware that this was an app im building, therefore going back to the HTML i updated line 3.
 ```
 <html ng-app="instaONE">
 ```
-the line of code connects to the javascript file and let's Angular know that anything in its code chunk.
+This line of code connects to the application.js file, and let's Angular know that anything in its code chunk is of importance.
 
-Moving forward another big change was to implement this <div> into the index.html.
+Moving forward, another big change was to implement this <div> into the index.html. This, if anything, is the most important part of my index.html as it is responsible for pulling content directly from instagram's API.
+
+We’re displaying the username and image and linking to Instagram’s web site during a blank tab.
+
 
 ![Woops](http://i64.tinypic.com/1690ncg.png)
 
-this under the command of ->
+This under the command of ->
 ```
 <section ng-controller="ShowImages as images">
 ```
-Will access the code command/data inside the "showimages controller of our Application,js file (Line 21).
+Will access the code command/data inside the "showimages controller of our Application.js file (Line 21).
+
+
 
 
 

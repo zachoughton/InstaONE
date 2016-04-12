@@ -104,7 +104,7 @@ Moving forward, another big change was to implement this
 
 It displays the username and image, linking to Instagram’s web site during a blank tab.
 
-**“ng-repeat”** to loop through the array of content that comes back from the Instagram API. “pics” corresponds to line 24 from our application.js file.
+**“ng-repeat”** to loop through the array of content that comes back from the Instagram API. **“pics”** corresponds to line 24 from our application.js file.
 
 The **image tag** uses ng-src instead of src so it renders the content prior to the HTML load.
 
@@ -121,6 +121,8 @@ Will access the code command/data inside the "showimages controller of our Appli
 At this point my index.html was starting to piece together and looked like this.
 
 ![Woops](http://i66.tinypic.com/2ng6a39.png)
+
+
 
 
 

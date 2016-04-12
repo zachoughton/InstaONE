@@ -67,7 +67,7 @@ through arduous, contious, and determined research i developed my application.js
 
 ![Woops](http://i65.tinypic.com/qo9ceo.png)
 
-######analysation
+######Analysation
 
 **Line's 1 & 28** wrap our code together nicely
 

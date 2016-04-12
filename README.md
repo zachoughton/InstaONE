@@ -69,7 +69,17 @@ through arduous, contious, and determined research i developed my application.js
 
 **Line's 1 & 28** wrap our code together nicely
 
-**Line 3** is my Instagram client ID, this proved difficult at first to get, until i used a previous account. Why? because Instagram since November 2015 has changed its app registration process to one that need to be approved in sandbox mode. With a account dating back before the change it seemed i got away with registering an application without review. 
+**Line 3** is my Instagram client ID, this proved difficult at first to get, until i used a previous account. Why? because Instagram since November 2015 has changed it's app registration process to one that need to be approved in sandbox mode. With a account dating back before the change it seemed i got away with registering an application without review. 
+
+**In line 5**, we are **initializing** our app called “instaONE”.
+
+**In line 7**, we are creating a “factory” (which does some stuff and returns some data) called “InstagramAPI” which uses Angular’s built-in $http property.
+
+**Lines 9–16** i used a method called “fetchPopular” that hit's the Instagram API and get's data back (SOME). I constructed an **endpoin** variable that should return 99 items (Instagram only returns 30–40 items at this moment).
+
+**Lines 21–26** create a “controller” called “ShowImages” that will interact with our HTML. We create an empty object called “data” that we pump the API response into. This is all the JS we need.
+
+At this point it was necessary to update the HTML to interact with the **Java**.
 
 
 

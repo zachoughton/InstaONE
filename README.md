@@ -59,8 +59,9 @@ bower install angular
 ```
 This downloaded all the juicy Angular.js files and put them in a file called "Bower_components".
 
-![Woops](http://i68.tinypic.com/6zc009.png)
+![Woops](http://i63.tinypic.com/1qpojd.png)
 
+Angular supposeably helps pull data from the Instagram API into my/your web app. Hopefully.
 
 
 

@@ -38,6 +38,9 @@ But the easy and relatively cheap solution of Amazon Web Services (AWS) seemed t
 
 ![Woops](http://www.knd.com.au/wp-content/uploads/aws.png)
 
+###STEP TWO - HTML 
+----
+Once i had layed the ground work down, it was important i documented/filed everything well. I decided to start with the outline for the index.html, trying to establish a connection 
 
 
 

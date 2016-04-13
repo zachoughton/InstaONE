@@ -166,17 +166,16 @@ http://thenextweb.com/apps/2011/07/24/the-complete-list-of-top-instagram-apps/#g
 
 ## code
 
+Index.html - (https://github.com/zachoughton/InstaONE/blob/master/index.html)
 javascript - (https://github.com/zachoughton/InstaONE/blob/master/application.js)
 
-My code in final form.
+My code in final form. Not working.
 
 #### Formative Presentation.
 
-I presented the progress of my development with the wire-framing and planning process and also with the recipe development.
+View my Formative Presentation here. 
 
-Download my Formative Presentation here.
-
-or View on GitHub
+https://docs.google.com/presentation/d/11LuClOlU3TYS1TNuWcQA5-PFfCG15WW26xOrEmkeSCo/pub?start=false&loop=false&delayms=3000 
 
 ### Summative Presentation
 

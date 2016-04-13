@@ -1,4 +1,4 @@
-# Filter bubbles - Web Development
+#Filter bubbles - Web Development
 ---
 
 **Name:** Isaac Houghton
@@ -7,9 +7,9 @@
 
 **Unit Code:** WEB14203
 
-# InstaONE
+#InstaONE
 ----
-###### Introduction
+######Introduction
 ----
 I decided to try and create an APP that could pull the best photos from instagram, and place them in alligment, on a web-platform desktop device. I wanted to find the best photos in all genres and have a refresh-rate short enough to display the latest and greatest. Essentially becomming a go"to" place for the most popular content on instagram at that moment in time.
 
@@ -158,6 +158,39 @@ I came across a number of challenges laying down the foundations on my computer.
 
 ##*The Blog posts*
 
+######Here are my blog posts for this unit:
+
+Learning Goals
+
+Github
+
+Filter Bubbles concept
+
+Github 
+
+Peer learning
+
+Github
+
+Filter Bubbles experiments
+
+Github
+
+Peer learning
+
+Github 
+
+Formative assessment
+
+Github 
+
+Team work
+
+Github 
+
+Filter Bubbles
+
+Github
 
 ## Inspiration
 
@@ -167,6 +200,7 @@ http://thenextweb.com/apps/2011/07/24/the-complete-list-of-top-instagram-apps/#g
 ## code
 
 Index.html - (https://github.com/zachoughton/InstaONE/blob/master/index.html)
+
 javascript - (https://github.com/zachoughton/InstaONE/blob/master/application.js)
 
 My code in final form. Not working.

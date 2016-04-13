@@ -165,39 +165,35 @@ I came across a number of challenges laying down the foundations on my computer.
 
 ##*The Blog posts*
 
-######Here are my blog posts for this unit:
+######Here are my blog posts for this unit: RELEVANT PRESENTATIONS CAN BE FOUND IN LINKS.
 
 Learning Goals
 
-(instaONE/week1.md)
+https://github.com/zachoughton/InstaONE/blob/master/week1
 
 Filter Bubbles concept
 
-Github 
+https://github.com/zachoughton/InstaONE/blob/master/week2
 
 Peer learning
 
-Github
+https://github.com/zachoughton/InstaONE/blob/master/week3
 
 Filter Bubbles experiments
 
-Github
-
-Peer learning
-
-Github 
+https://github.com/zachoughton/InstaONE/blob/master/week4
 
 Formative assessment
 
-Github 
+https://github.com/zachoughton/InstaONE/blob/master/week5
 
 Team work
 
-Github 
+https://github.com/zachoughton/InstaONE/blob/master/week8
 
 Filter Bubbles
 
-Github
+https://github.com/zachoughton/InstaONE/blob/master/week9
 
 ## Inspiration
 

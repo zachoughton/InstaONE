@@ -121,7 +121,7 @@ At this point my index.html was starting to piece together and looked like this.
 
 ![Woops](http://i67.tinypic.com/2qm1ce9.png)
 
-STEP THREE - CSS
+######STEP THREE - CSS
 
 To glitter off the final product, i decided to put some CSS into the index.html. Unfortunately this renders pointless due to restrictions as i will develop on. Yet, for technical and practical appreciation i have put it there anyway. 
 ```
@@ -139,12 +139,12 @@ To glitter off the final product, i decided to put some CSS into the index.html.
     footer a {color:#fff;}
   </style>
 ```
-
+---
 ### Issues i came across
-
+---
 Unfortunately due to Instagram's new ACCESS_TOKEN policy its become more challeging to pull data from there API, since having done this project in class 
 
-**Instagram Platform and documentation update. Apps created on or after Nov 17, 2015 will start in Sandbox Mode and function on newly updated API rate-limits and behaviors. Prior to going Live, and being able to be used by people other than the developers of the app, these apps will have to go through a new review process. Please read the API documentation or the Change Log for more details.
+Instagram Platform and documentation update. Apps created on or after Nov 17, 2015 will start in Sandbox Mode and function on newly updated API rate-limits and behaviors. Prior to going Live, and being able to be used by people other than the developers of the app, these apps will have to go through a new review process. Please read the API documentation or the Change Log for more details.
 
 Any app created before Nov 17, 2015 will continue to function until June 2016. After June 2016, the app will automatically be moved to Sandbox Mode if it wasn't approved through the review process. The previous version of our documentation is still available here.**
 

@@ -47,6 +47,7 @@ Once i had layed the ground work down, it was important i documented/filed every
 ![Woops](http://i68.tinypic.com/6zc009.png)
 
 At this point it looks like some un-formatted HTML, not very interesting. However, the plan is to make it pop.
+
 ----
 ######STEP THREE - Javascript 
 ----

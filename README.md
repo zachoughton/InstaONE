@@ -1,4 +1,4 @@
-## Filter bubbles
+# Filter bubbles - Web Development
 ---
 
 **Name:** Isaac Houghton

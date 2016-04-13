@@ -28,7 +28,9 @@ and it appeared i was out of date on both. Therefore i quickly updated both and 
 ```
 npm -g install bower
 ```
+
 Bower essentially is the back-bone to the APP.
+
 ----
 ######Hosting
 ----

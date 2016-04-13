@@ -169,7 +169,7 @@ I came across a number of challenges laying down the foundations on my computer.
 
 Learning Goals
 
-Github
+(instaONE/week1.md)
 
 Filter Bubbles concept
 

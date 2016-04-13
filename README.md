@@ -159,6 +159,9 @@ This unfortuntaley became a huge limiting factor in the success of this app. How
 
 I came across a number of challenges laying down the foundations on my computer. Refferring to "foundations", i mean installing properly bower, and angular. Due to a number of issues regarding the update OSX El Capitan, my computer struggled to download .js libraries particularily Angular. As a result i had to Re-install OSX after a number of silly sudo-commands in Terminal which, created a logic board problem on my mac. Which, didn't help.
 
+##Mockup
+
+![Woops](http://i64.tinypic.com/2ymu1dl.jpg)
 
 ##*The Blog posts*
 

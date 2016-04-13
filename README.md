@@ -153,6 +153,9 @@ This unfortuntaley became a huge limiting factor in the success of this app. How
 
 **OSX npm permissions**
 
+I came across a number of challenges laying down the foundations on my computer. Refferring to "foundations", i mean installing properly bower, and angular. Due to a number of issues regarding the update OSX El Capitan, my computer struggled to download .js libraries particularily Angular. As a result i had to Re-install OSX after a number of silly sudo-commands in Terminal which, created a logic board problem on my mac. Which, didn't help.
+
+
 
 
 
@@ -164,9 +167,8 @@ This unfortuntaley became a huge limiting factor in the success of this app. How
 
 ## Inspiration
 
-Iinspiration for the app:
-
-Http://www...
+Examples of great Instagram based Apps.
+http://thenextweb.com/apps/2011/07/24/the-complete-list-of-top-instagram-apps/#gref
 
 ## Broken code
 

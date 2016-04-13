@@ -156,12 +156,6 @@ This unfortuntaley became a huge limiting factor in the success of this app. How
 I came across a number of challenges laying down the foundations on my computer. Refferring to "foundations", i mean installing properly bower, and angular. Due to a number of issues regarding the update OSX El Capitan, my computer struggled to download .js libraries particularily Angular. As a result i had to Re-install OSX after a number of silly sudo-commands in Terminal which, created a logic board problem on my mac. Which, didn't help.
 
 
-
-
-
-
-
-
 ##*The Blog posts*
 
 
@@ -170,13 +164,9 @@ I came across a number of challenges laying down the foundations on my computer.
 Examples of great Instagram based Apps.
 http://thenextweb.com/apps/2011/07/24/the-complete-list-of-top-instagram-apps/#gref
 
-## Broken code
+## code
 
-Evidence of my code in broken form and how i overcame challenges with it.
-
-## Working code
-
-My code in final form, working.
+My code in final form.
 
 #### Formative Presentation.
 
@@ -187,3 +177,8 @@ Download my Formative Presentation here.
 or View on GitHub
 
 ### Summative Presentation
+
+Final Basic Presentation. More a visual cue for explanation.
+
+https://docs.google.com/presentation/d/13yYqKTalmJL5GrandNzVrILa7TLLDZoCY42DBk50Jt8/pub?start=false&loop=false&delayms=3000
+

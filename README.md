@@ -120,7 +120,7 @@ Will access the code command/data inside the "showimages controller of our Appli
 
 At this point my index.html was starting to piece together and looked like this.
 
-![Woops](http://i66.tinypic.com/2ng6a39.png)
+![Woops](http://i67.tinypic.com/2qm1ce9.png)
 
 
 

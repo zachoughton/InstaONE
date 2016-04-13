@@ -107,8 +107,6 @@ It displays the username and image, linking to Instagram’s web site during a b
 
 The **image tag** uses ng-src instead of src so it renders the content prior to the HTML load.
 
-
-
 ![Woops](http://i64.tinypic.com/1690ncg.png)
 
 This under the command of ->
@@ -140,15 +138,20 @@ To glitter off the final product, i decided to put some CSS into the index.html.
   </style>
 ```
 ---
-### Issues i came across
+### Issues I Came Across
 ---
+
+**INSTAGRAM API**
+
 Unfortunately due to Instagram's new ACCESS_TOKEN policy its become more challeging to pull data from there API, since having done this project in class 
 
-Instagram Platform and documentation update. Apps created on or after Nov 17, 2015 will start in Sandbox Mode and function on newly updated API rate-limits and behaviors. Prior to going Live, and being able to be used by people other than the developers of the app, these apps will have to go through a new review process. Please read the API documentation or the Change Log for more details.
+"Instagram Platform and documentation update. Apps created on or after Nov 17, 2015 will start in Sandbox Mode and function on newly updated API rate-limits and behaviors. Prior to going Live, and being able to be used by people other than the developers of the app, these apps will have to go through a new review process. Please read the API documentation or the Change Log for more details.
 
-Any app created before Nov 17, 2015 will continue to function until June 2016. After June 2016, the app will automatically be moved to Sandbox Mode if it wasn't approved through the review process. The previous version of our documentation is still available here.**
+Any app created before Nov 17, 2015 will continue to function until June 2016. After June 2016, the app will automatically be moved to Sandbox Mode if it wasn't approved through the review process. The previous version of our documentation is still available here."(https://www.instagram.com/developer/)
 
 This unfortuntaley became a huge limiting factor in the success of this app. However, i was not fortunate to be able to predict this, so i have to live with it. However, i hope my ability to explain my process in thorough detail and the nature of efforts has sufficed in gaining you confidence with my understanding of API's, their implementation, and the building blocks to creating my very own web-application. 
+
+**OSX npm permissions**
 
 
 

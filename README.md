@@ -200,6 +200,31 @@ https://github.com/zachoughton/InstaONE/blob/master/week9
 Examples of great Instagram based Apps.
 http://thenextweb.com/apps/2011/07/24/the-complete-list-of-top-instagram-apps/#gref
 
+Angular: Javascript Library, great building platform.
+
+Import.io is another service that lets you turn website data into API data
+
+Eli Parsier: Beware of Filter Bubbles
+
+Instagram API (CodeWars Kata by Matteo)
+
+Google Cabs And Uber Bots Will Challenge Jobs 'Below The API'
+
+Selfie City
+
+Googling Freedom is a practical demonstration of a filter bubble
+
+Javascript Book
+
+Instagram API "how-to tutorial"
+
+InstaFeed.js is a JS library you can use to pull data from Instagram (you may find it easier than using the Instagram API)
+
+Selfie City investigates social media self-portraits in five cities across the world
+
+Kimono lets you turn websites into structured APIs from your browser in seconds
+
+
 ## code
 
 Index.html - (https://github.com/zachoughton/InstaONE/blob/master/index.html)

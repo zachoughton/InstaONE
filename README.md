@@ -14,6 +14,7 @@
 I decided to try and create an APP that could pull the best photos from instagram, and place them in alligment, on a web-platform desktop device. I wanted to find the best photos in all genres and have a refresh-rate short enough to display the latest and greatest. Essentially becomming a go"to" place for the most popular content on instagram at that moment in time.
 
 The idea for this came about when i watched one of my friends frantically refresh the "explore tabe on instagram (mobile App). This triggered my thought process, people -> see great new content -> often. While i thought that it could be possible to create a third-party mobile app for an app, i didnt see it as a affective solution. A web-based APP however, got my attention as i prefer to use instagram on their web-platform anyway.
+
 ----
 ######STEP ONE 
 ----
